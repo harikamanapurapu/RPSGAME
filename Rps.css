@@ -168,8 +168,8 @@
 .popup {
     display: none;
     position: absolute;
-    margin-top: 230px;
-    margin-left: 900px;
+    top: 230px;
+    left: 930px;
     color: white;
     position: absolute;
     width: 260px;
@@ -177,7 +177,6 @@
     background: #004429;
     border: 7px solid #FFFFFF;
     border-radius: 13px;
-    text-align: left;
     padding: 5px;
   }
 .con{
@@ -265,10 +264,11 @@ ul{
 }
 .trophy{
     position: absolute;
-    left: 43.52%;
-    right: 40.83%;
-    top: 25.61%;
-    bottom: 47.15%;
+    left: 540px;
+    top: 180px;
+    bottom: 50px;
+    Width:200.43px;
+    Height:201px;
     Width:200.43px;
     Height:201px;
 }
