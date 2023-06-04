@@ -263,7 +263,7 @@ ul{
     color: #6B6B6B;
 }
 .trophy{
-    position: absolute;
+    position: fixed;
     left: 540px;
     top: 180px;
     bottom: 50px;
