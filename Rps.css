@@ -175,7 +175,7 @@
     z-index: 1;
     overflow: auto;
     position: absolute;
-    width: 230px;
+    width: 250px;
     height: 320px;
     background: #004429;
     border: 7px solid #FFFFFF;
@@ -210,8 +210,8 @@ ul{
     width: 30px;
     height: 30px;
     text-align: center;
-    margin-left:270px;
-    margin-top:280px;
+    left: 1217px;
+    top: 300px;
   }
   
   .close:hover,
